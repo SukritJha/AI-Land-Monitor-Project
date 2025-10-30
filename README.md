@@ -49,3 +49,6 @@ The entire project is contained in the `Land_Use_Monitor.ipynb` notebook file.
 2.  Upload it to [Google Colab](https://colab.research.google.com/).
 3.  Ensure the runtime is set to **T4 GPU**.
 4.  Click **Runtime > Run all** to execute the code from start to finish.
+<img width="1010" height="470" alt="image" src="https://github.com/user-attachments/assets/8bb9d5ea-7889-40e0-8074-c29653b0d7fa" />
+<img width="945" height="990" alt="image" src="https://github.com/user-attachments/assets/ee9b10cf-a33d-4dcb-9542-e39f07fb307b" />
+
